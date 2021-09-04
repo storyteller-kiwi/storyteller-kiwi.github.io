@@ -1,4 +1,0 @@
-Sitemap: http://www.storyteller.net.au/sitemapindex.xml
-
-User-Agent: *
-Host: www.storyteller.net.au
