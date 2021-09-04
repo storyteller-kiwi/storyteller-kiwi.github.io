@@ -1,0 +1,4 @@
+Sitemap: http://www.storyteller.kiwi/sitemapindex.xml
+
+User-Agent: *
+Host: www.storyteller.kiwi
