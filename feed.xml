@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2024-08-03T12:00:05+12:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">International Storytelling Ltd   Whiria te Tāngata</title>
+  
+
+  
+    <subtitle>Storytelling and Information Technology services for international clients, schools, libraries, NGO&apos;s, government.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Narrative Management</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Narrative Management" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/YA</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Infrastructure &amp;amp; Technology</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Infrastructure &amp; Technology" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/Strategy</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Speech Writing &amp;amp; Coaching</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Speech Writing &amp; Coaching" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/Services</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Museum Interpretation Services</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Museum Interpretation Services" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/Design</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Storytelling</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Storytelling" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/CollectionDevelopment</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Professional Development</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Professional Development" />
+      <published>2023-03-09T00:00:00+13:00</published>
+      <updated>2023-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/Children</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Testimonials</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Testimonials" />
+      <published>2022-03-09T00:00:00+13:00</published>
+      <updated>2022-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/testimonial</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Our Client Approach / How we work / Services Approach</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Our Client Approach / How we work / Services Approach" />
+      <published>2022-03-09T00:00:00+13:00</published>
+      <updated>2022-03-09T00:00:00+13:00</updated>
+      <id>http://localhost:4000/OurValues</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
